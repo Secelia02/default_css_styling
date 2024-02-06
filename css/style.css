@@ -1,0 +1,80 @@
+h1 {
+  color: #885DF1;
+  text-decoration: underline;
+  text-align: center;
+}
+
+h2 {
+  color: #272044;
+  text-align: center;
+  font-weight: normal;
+}
+
+button {
+  color: #885DF1;
+  display: block;
+  margin: auto;
+  padding: 12px;
+  font-size: 18px;
+  background: white;
+  border-radius: 30px;
+  border: 1px solid #885DF1;
+  box-shadow: 5px 5px 10px rgb(128, 128, 128, 0.3);
+  transition: all 200ms ease-in-out;
+}
+
+button:hover {
+  color: white;
+  background: #885DF1;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin: 15px;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+
+}
+
+.people {
+  color: blue;
+  
+}
+.people:hover {
+  text-decoration: underline;
+}
+
+
+
+.learning {
+  color: red;
+}
+.learning:hover {
+  text-decoration: underline;
+}
+
+.life {
+  color: green;
+}
+.life:hover {
+  text-decoration: underline;
+}
